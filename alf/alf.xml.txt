@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ALF Alle Hörspiele</title>
+        <link>https://archive.org/details/alfhoerspiele</link>
+        <language>ger</language>
+        <copyright>pidi</copyright>
+        <itunes:author>pidi</itunes:author>
+        <itunes:owner>
+            <itunes:name>pidi</itunes:name>
+            <itunes:email>herrgemmel@gmail.com</itunes:email>
+        </itunes:owner>
+        <description><![CDATA[&lt;div&gt;Alle ALF Hörspiele&lt;/div&gt;]]></description>
+        <itunes:image href="https://archive.org/services/img/alfhoerspiele"/>
+        <itunes:category text="Kids &amp; Family"/>
+        
+        <item>
+            <title>02 Katzenjammer (A) Großer Mann, was nun (B)</title>
+            <description><![CDATA[ 02 Katzenjammer (A) Großer Mann, was nun (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/02%20Katzenjammer%20(A)%20Gro%C3%9Fer%20Mann%2C%20was%20nun%20(B).mp3" type="audio/mpeg" length="57364408"/>
+            <guid isPermaLink="false">alfhoerspiele-02 Katzenjammer (A) Großer Mann, was nun (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 12:43:02 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>04 Fröhliche Ferien (A) Bühne frei für Spargelspitzen (B)</title>
+            <description><![CDATA[ 04 Fröhliche Ferien (A) Bühne frei für Spargelspitzen (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/04%20Fr%C3%B6hliche%20Ferien%20(A)%20B%C3%BChne%20frei%20f%C3%BCr%20Spargelspitzen%20(B).mp3" type="audio/mpeg" length="54483624"/>
+            <guid isPermaLink="false">alfhoerspiele-04 Fröhliche Ferien (A) Bühne frei für Spargelspitzen (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 12:51:56 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>08a Der Ausreißer</title>
+            <description><![CDATA[ 08a Der Ausreißer ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/08a%20Der%20Ausrei%C3%9Fer.mp3" type="audio/mpeg" length="30201658"/>
+            <guid isPermaLink="false">alfhoerspiele-08a Der Ausreißer.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:16:51 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>08b Mit den besten Grüßen aus dem Jenseits</title>
+            <description><![CDATA[ 08b Mit den besten Grüßen aus dem Jenseits ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/08b%20Mit%20den%20besten%20Gr%C3%BC%C3%9Fen%20aus%20dem%20Jenseits.mp3" type="audio/mpeg" length="29602305"/>
+            <guid isPermaLink="false">alfhoerspiele-08b Mit den besten Grüßen aus dem Jenseits.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:17:31 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>1  Hallo, da bin ich (A) Die Nacht, in der die Pizza kam (B)</title>
+            <description><![CDATA[ 1  Hallo, da bin ich (A) Die Nacht, in der die Pizza kam (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/1%20%20Hallo%2C%20da%20bin%20ich%20(A)%20Die%20Nacht%2C%20in%20der%20die%20Pizza%20kam%20(B).mp3" type="audio/mpeg" length="52429366"/>
+            <guid isPermaLink="false">alfhoerspiele-1  Hallo, da bin ich (A) Die Nacht, in der die Pizza kam (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 12:37:53 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>10  Der blinde Passagier (A) Schulden und Sühne (B) Deutsch</title>
+            <description><![CDATA[ 10  Der blinde Passagier (A) Schulden und Sühne (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/10%20%20Der%20blinde%20Passagier%20(A)%20Schulden%20und%20S%C3%BChne%20(B)%20Deutsch.mp3" type="audio/mpeg" length="61553572"/>
+            <guid isPermaLink="false">alfhoerspiele-10  Der blinde Passagier (A) Schulden und Sühne (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:25:04 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>11  Der Rollentausch (A) Der Kammerjäger und die Kakerlake (B) Deutsch</title>
+            <description><![CDATA[ 11  Der Rollentausch (A) Der Kammerjäger und die Kakerlake (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/11%20%20Der%20Rollentausch%20(A)%20Der%20Kammerj%C3%A4ger%20und%20die%20Kakerlake%20(B)%20Deutsch.mp3" type="audio/mpeg" length="60962890"/>
+            <guid isPermaLink="false">alfhoerspiele-11  Der Rollentausch (A) Der Kammerjäger und die Kakerlake (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:27:34 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>12 Gestatten, mein Name ist Schlegel (A &amp; B)</title>
+            <description><![CDATA[ 12 Gestatten, mein Name ist Schlegel (A &amp; B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/12%20Gestatten%2C%20mein%20Name%20ist%20Schlegel%20(A%20%26%20B).mp3" type="audio/mpeg" length="25990510"/>
+            <guid isPermaLink="false">alfhoerspiele-12 Gestatten, mein Name ist Schlegel (A &amp; B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:28:53 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>13  Der Schönheitswettbewerb (A) Reif für die Insel (B) Deutsch</title>
+            <description><![CDATA[ 13  Der Schönheitswettbewerb (A) Reif für die Insel (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/13%20%20Der%20Sch%C3%B6nheitswettbewerb%20(A)%20Reif%20f%C3%BCr%20die%20Insel%20(B)%20Deutsch.mp3" type="audio/mpeg" length="65283565"/>
+            <guid isPermaLink="false">alfhoerspiele-13  Der Schönheitswettbewerb (A) Reif für die Insel (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:33:18 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>14  Ein Schock fürs Leben (A) Anwalt in eigener Sache (B) Deutsch</title>
+            <description><![CDATA[ 14  Ein Schock fürs Leben (A) Anwalt in eigener Sache (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/14%20%20Ein%20Schock%20f%C3%BCrs%20Leben%20(A)%20Anwalt%20in%20eigener%20Sache%20(B)%20Deutsch.mp3" type="audio/mpeg" length="63910997"/>
+            <guid isPermaLink="false">alfhoerspiele-14  Ein Schock fürs Leben (A) Anwalt in eigener Sache (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:35:05 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>15  Paradies für Flitterwöchner (A) Der Junge von nebenan (B) Deutsch</title>
+            <description><![CDATA[ 15  Paradies für Flitterwöchner (A) Der Junge von nebenan (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/15%20%20Paradies%20f%C3%BCr%20Flitterw%C3%B6chner%20(A)%20Der%20Junge%20von%20nebenan%20(B)%20Deutsch.mp3" type="audio/mpeg" length="53116453"/>
+            <guid isPermaLink="false">alfhoerspiele-15  Paradies für Flitterwöchner (A) Der Junge von nebenan (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:36:24 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>16  Eine Reise durch die Nacht (A) Der Traumkandidat (B) Deutsch</title>
+            <description><![CDATA[ 16  Eine Reise durch die Nacht (A) Der Traumkandidat (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/16%20%20Eine%20Reise%20durch%20die%20Nacht%20(A)%20Der%20Traumkandidat%20(B)%20Deutsch.mp3" type="audio/mpeg" length="60791469"/>
+            <guid isPermaLink="false">alfhoerspiele-16  Eine Reise durch die Nacht (A) Der Traumkandidat (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:44:17 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>17  Das Kostümfest (A) Die Untermieterin (B) Deutsch</title>
+            <description><![CDATA[ 17  Das Kostümfest (A) Die Untermieterin (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/17%20%20Das%20Kost%C3%BCmfest%20(A)%20Die%20Untermieterin%20(B)%20Deutsch.mp3" type="audio/mpeg" length="66719751"/>
+            <guid isPermaLink="false">alfhoerspiele-17  Das Kostümfest (A) Die Untermieterin (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:45:49 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>18  Ein Widersacher auf vier Beinen (A) In der Kutte des Büssers (B)</title>
+            <description><![CDATA[ 18  Ein Widersacher auf vier Beinen (A) In der Kutte des Büssers (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/18%20%20Ein%20Widersacher%20auf%20vier%20Beinen%20(A)%20In%20der%20Kutte%20des%20B%C3%BCssers%20(B).mp3" type="audio/mpeg" length="61485755"/>
+            <guid isPermaLink="false">alfhoerspiele-18  Ein Widersacher auf vier Beinen (A) In der Kutte des Büssers (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 18:46:50 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>19  Auf Verbrecherjagd I + II Deutsch</title>
+            <description><![CDATA[ 19  Auf Verbrecherjagd I + II Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/19%20%20Auf%20Verbrecherjagd%20I%20%2B%20II%20Deutsch.mp3" type="audio/mpeg" length="62571744"/>
+            <guid isPermaLink="false">alfhoerspiele-19  Auf Verbrecherjagd I + II Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 18:49:22 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>20  Der Geist aus der Flasche (A) Paules Puppenspieler (B) Deutsch</title>
+            <description><![CDATA[ 20  Der Geist aus der Flasche (A) Paules Puppenspieler (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/20%20%20Der%20Geist%20aus%20der%20Flasche%20(A)%20Paules%20Puppenspieler%20(B)%20Deutsch.mp3" type="audio/mpeg" length="65617787"/>
+            <guid isPermaLink="false">alfhoerspiele-20  Der Geist aus der Flasche (A) Paules Puppenspieler (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 18:52:32 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>21  Die Beförderung (A) Nebenjob gesucht (B) Deutsch</title>
+            <description><![CDATA[ 21  Die Beförderung (A) Nebenjob gesucht (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/21%20%20Die%20Bef%C3%B6rderung%20(A)%20Nebenjob%20gesucht%20(B)%20Deutsch.mp3" type="audio/mpeg" length="64087100"/>
+            <guid isPermaLink="false">alfhoerspiele-21  Die Beförderung (A) Nebenjob gesucht (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 18:55:59 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>22  Auge um Auge (A) Der Schritt in die Öffentlichkeit (B) Deutsch</title>
+            <description><![CDATA[ 22  Auge um Auge (A) Der Schritt in die Öffentlichkeit (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/22%20%20Auge%20um%20Auge%20(A)%20Der%20Schritt%20in%20die%20%C3%96ffentlichkeit%20(B)%20Deutsch.mp3" type="audio/mpeg" length="64183778"/>
+            <guid isPermaLink="false">alfhoerspiele-22  Auge um Auge (A) Der Schritt in die Öffentlichkeit (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 18:59:13 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>23  Schluckauf Marke Melmac (A) Onkel Albert (B)</title>
+            <description><![CDATA[ 23  Schluckauf Marke Melmac (A) Onkel Albert (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/23%20%20Schluckauf%20Marke%20Melmac%20(A)%20Onkel%20Albert%20(B).mp3" type="audio/mpeg" length="66047094"/>
+            <guid isPermaLink="false">alfhoerspiele-23  Schluckauf Marke Melmac (A) Onkel Albert (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:02:21 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>24  Stets zu Ihren Diensten (A) Zur besten Sendezeit (B) Deutsch</title>
+            <description><![CDATA[ 24  Stets zu Ihren Diensten (A) Zur besten Sendezeit (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/24%20%20Stets%20zu%20Ihren%20Diensten%20(A)%20Zur%20besten%20Sendezeit%20(B)%20Deutsch.mp3" type="audio/mpeg" length="63261846"/>
+            <guid isPermaLink="false">alfhoerspiele-24  Stets zu Ihren Diensten (A) Zur besten Sendezeit (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:04:56 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>25  Rendezvous gefällig (A) Blick zurück nach vorn (B) Deutsch</title>
+            <description><![CDATA[ 25  Rendezvous gefällig (A) Blick zurück nach vorn (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/25%20%20Rendezvous%20gef%C3%A4llig%20(A)%20Blick%20zur%C3%BCck%20nach%20vorn%20(B)%20Deutsch.mp3" type="audio/mpeg" length="67589837"/>
+            <guid isPermaLink="false">alfhoerspiele-25  Rendezvous gefällig (A) Blick zurück nach vorn (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:07:59 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>26  Nachbarschaftshilfe (A) Reden ist Blech (B) Deutsch</title>
+            <description><![CDATA[ 26  Nachbarschaftshilfe (A) Reden ist Blech (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/26%20%20Nachbarschaftshilfe%20(A)%20Reden%20ist%20Blech%20(B)%20Deutsch.mp3" type="audio/mpeg" length="65897034"/>
+            <guid isPermaLink="false">alfhoerspiele-26  Nachbarschaftshilfe (A) Reden ist Blech (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:12:36 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>27 Der mysteriöse Fremde (A &amp; B)</title>
+            <description><![CDATA[ 27 Der mysteriöse Fremde (A &amp; B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/27%20Der%20mysteri%C3%B6se%20Fremde%20(A%20%26%20B).mp3" type="audio/mpeg" length="80720385"/>
+            <guid isPermaLink="false">alfhoerspiele-27 Der mysteriöse Fremde (A &amp; B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:16:36 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>28  Ein Hippie namens Willie (A) Auf neuen Wegen (B) Deutsch</title>
+            <description><![CDATA[ 28  Ein Hippie namens Willie (A) Auf neuen Wegen (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/28%20%20Ein%20Hippie%20namens%20Willie%20(A)%20Auf%20neuen%20Wegen%20(B)%20Deutsch.mp3" type="audio/mpeg" length="67667802"/>
+            <guid isPermaLink="false">alfhoerspiele-28  Ein Hippie namens Willie (A) Auf neuen Wegen (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:20:18 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>29  Cousin Blinky (A) Der Zauberlehrling (B) Deutsch</title>
+            <description><![CDATA[ 29  Cousin Blinky (A) Der Zauberlehrling (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/29%20%20Cousin%20Blinky%20(A)%20Der%20Zauberlehrling%20(B)%20Deutsch.mp3" type="audio/mpeg" length="62166754"/>
+            <guid isPermaLink="false">alfhoerspiele-29  Cousin Blinky (A) Der Zauberlehrling (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:26:57 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>3  Parasit mit Puderquaste (A) Ganz im Vertrauen (B)</title>
+            <description><![CDATA[ 3  Parasit mit Puderquaste (A) Ganz im Vertrauen (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/3%20%20Parasit%20mit%20Puderquaste%20(A)%20Ganz%20im%20Vertrauen%20(B).mp3" type="audio/mpeg" length="60054258"/>
+            <guid isPermaLink="false">alfhoerspiele-3  Parasit mit Puderquaste (A) Ganz im Vertrauen (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 12:48:24 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>30  Der Zeuge im Netz (A) Ein Fall für Drei (B) Deutsch</title>
+            <description><![CDATA[ 30  Der Zeuge im Netz (A) Ein Fall für Drei (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/30%20%20Der%20Zeuge%20im%20Netz%20(A)%20Ein%20Fall%20f%C3%BCr%20Drei%20(B)%20Deutsch.mp3" type="audio/mpeg" length="63765786"/>
+            <guid isPermaLink="false">alfhoerspiele-30  Der Zeuge im Netz (A) Ein Fall für Drei (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:30:35 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>31  Ein Baby auf Probe (A) Ich und der King (B) Deutsch</title>
+            <description><![CDATA[ 31  Ein Baby auf Probe (A) Ich und der King (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/31%20%20Ein%20Baby%20auf%20Probe%20(A)%20Ich%20und%20der%20King%20(B)%20Deutsch.mp3" type="audio/mpeg" length="65122770"/>
+            <guid isPermaLink="false">alfhoerspiele-31  Ein Baby auf Probe (A) Ich und der King (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:34:18 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>32  Erpresser am Telefon (A) Der Liebesdiener (B) Deutsch</title>
+            <description><![CDATA[ 32  Erpresser am Telefon (A) Der Liebesdiener (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/32%20%20Erpresser%20am%20Telefon%20(A)%20Der%20Liebesdiener%20(B)%20Deutsch.mp3" type="audio/mpeg" length="62933844"/>
+            <guid isPermaLink="false">alfhoerspiele-32  Erpresser am Telefon (A) Der Liebesdiener (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 19:36:38 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>33 Der Pechvogel (A) Zwischen zwei Stühlen (B) Deutsch</title>
+            <description><![CDATA[ 33 Der Pechvogel (A) Zwischen zwei Stühlen (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/33%20Der%20Pechvogel%20(A)%20Zwischen%20zwei%20St%C3%BChlen%20(B)%20Deutsch.mp3" type="audio/mpeg" length="86304111"/>
+            <guid isPermaLink="false">alfhoerspiele-33 Der Pechvogel (A) Zwischen zwei Stühlen (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 20:08:05 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>5  Ein Mädchen namens Rhonda (A) Eifersucht nach Noten (B)</title>
+            <description><![CDATA[ 5  Ein Mädchen namens Rhonda (A) Eifersucht nach Noten (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/5%20%20Ein%20M%C3%A4dchen%20namens%20Rhonda%20(A)%20Eifersucht%20nach%20Noten%20(B).mp3" type="audio/mpeg" length="61666261"/>
+            <guid isPermaLink="false">alfhoerspiele-5  Ein Mädchen namens Rhonda (A) Eifersucht nach Noten (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 12:55:05 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>6  Der Sprung in die Tiefe (A) Die Spritztour (B)</title>
+            <description><![CDATA[ 6  Der Sprung in die Tiefe (A) Die Spritztour (B) ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/6%20%20Der%20Sprung%20in%20die%20Tiefe%20(A)%20Die%20Spritztour%20(B).mp3" type="audio/mpeg" length="62141158"/>
+            <guid isPermaLink="false">alfhoerspiele-6  Der Sprung in die Tiefe (A) Die Spritztour (B).mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:10:05 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>7  Wenn Schwiegermutter kommt (A) Die Fernsehfamilie (B) Deutsch</title>
+            <description><![CDATA[ 7  Wenn Schwiegermutter kommt (A) Die Fernsehfamilie (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/7%20%20Wenn%20Schwiegermutter%20kommt%20(A)%20Die%20Fernsehfamilie%20(B)%20Deutsch.mp3" type="audio/mpeg" length="61739266"/>
+            <guid isPermaLink="false">alfhoerspiele-7  Wenn Schwiegermutter kommt (A) Die Fernsehfamilie (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:15:26 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+        <item>
+            <title>9  Das Fenster zum Garten (A) Ein Käfig für den Narren (B) Deutsch</title>
+            <description><![CDATA[ 9  Das Fenster zum Garten (A) Ein Käfig für den Narren (B) Deutsch ]]></description>
+            <enclosure url="https://archive.org/download/alfhoerspiele/9%20%20Das%20Fenster%20zum%20Garten%20(A)%20Ein%20K%C3%A4fig%20f%C3%BCr%20den%20Narren%20(B)%20Deutsch.mp3" type="audio/mpeg" length="67585763"/>
+            <guid isPermaLink="false">alfhoerspiele-9  Das Fenster zum Garten (A) Ein Käfig für den Narren (B) Deutsch.mp3</guid>
+            <pubDate>Sat, 08 Nov 2025 13:20:04 GMT</pubDate>
+            <itunes:author>pidi</itunes:author>
+        </item>
+    </channel>
+</rss>
